@@ -11,9 +11,9 @@ Welcome to the Legends of Bondowoso and Jonggrang CLI Game! Experience the mythi
 In this text-based command-line game, you'll control two characters: **Bandung Bondowoso** and **Roro Jonggrang**. Bandung Bondowoso has the power to summon and control jin, while Roro Jonggrang possesses the ability to destroy candi (temples) and make the rooster crow, signaling the arrival of morning.
 
 ## How to Use
-    git clone https://github.com/rizqikapratamaa/Algeo01-22126
-    cd Algeo01-22126/bin
-    java Main
+    git clone https://github.com/rizqikapratamaa/Mandor-Kuli-Jin-Python-Game
+    cd Mandor-Kuli-Jin-Python-Game
+    python main.py
 
 
 ## Gameplay
